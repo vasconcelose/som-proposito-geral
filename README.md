@@ -45,8 +45,9 @@ que o Octave esteja devidamente instalado no seu computador.
 
 Para gerar um mapa com a rede SOM eh preciso chamar som.m como abaixo.
 
-$ octave som.m --treina <numero de epocas de treinamento> <tamanho do lado do reticulo bidimensional da rede>
-e.g. $ octave som.m --treina 100 10
+$ octave som.m --treina \<numero de epocas de treinamento\> \<tamanho do lado do reticulo bidimensional da rede\>
+
+e.g. $ octave som.m --treina 100 10<br>
      $ octave som.m --treina 50 20
 
 Esta chamada cria dois arquivos de saida, a saber:
